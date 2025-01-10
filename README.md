@@ -42,3 +42,11 @@ Before our adventure begins we will need to choose our starting point:
 
 1. [Workshop on Genomics](workshop_on_genomics.md)
 2. [Home](home.md)
+
+## Skip Ahead
+If you have already completed at least Chapter One then you can skip ahead if you like! Be warned, you may need to grab some files from the precomputed folder. So it is best to go chapter by chapter!
+
+2. [Chapter Two - QC, Alignment and Variant Calling](https://github.com/guyleonard/genomics_adventure/blob/release/chapter_2/task_1.md)
+3. [Chapter 3 - Assembly of Unmapped Reads](https://github.com/guyleonard/genomics_adventure/blob/release/chapter_3/task_1.md)
+4. [Chapter 4 ​- De novo Assembly Using Short Reads](https://github.com/guyleonard/genomics_adventure/blob/release/chapter_4/task_1.md)
+5. [Chapter 5 - Hybrid de novo Assembly](https://github.com/guyleonard/genomics_adventure/blob/release/chapter_5/task_1.md)
