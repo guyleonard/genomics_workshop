@@ -1,4 +1,4 @@
-We will be using a piece of software called '[conda](https://docs.conda.io/en/latest/)':mag:, this allow the easy installation lots of common bioinformatics software in a special 'environment' (think of it like a box :package:) without the need for admin access or other complications.
+We will be using a piece of software called '[conda](https://docs.conda.io/en/latest/)' :mag:, this allow the easy installation lots of common bioinformatics software in a special 'environment' (think of it like a box :package:) without the need for admin access or other complications.
 
 Since you are attending the Workshop on Genomics the software and all data is already installed for you!
 
@@ -40,7 +40,7 @@ We will be using several sets of data for our adventure, this is similar to how 
 We will be working with the bacterial species *Escherichia coli* as it is a relatively small genome (which makes it easy for the timings of this tutorial), but the techniques you will learn here can be applied to any smaller or larger, and/or Eukaryotic genomes too!
 
 #### Sequencing Data
-Back at your home institute you will likely retrieve your data from either the institute's sequencing service or a private outside provider. However, there is also a wealth :moneybag: of sequenced genomic data stored in publically accesible repositories such as NCBI's [SRA](https://www.ncbi.nlm.nih.gov/sra) or EMBL-EBI's [ENA](https://www.ebi.ac.uk/ena). These portals are also where you will be required to deposit your sequencing efforts during publication.
+Back at your home institute you will likely retrieve your data from either the institute's sequencing service or a private outside provider. However, there is also a wealth :moneybag: of sequenced genomic data stored in publicly accessible repositories such as NCBI's [SRA](https://www.ncbi.nlm.nih.gov/sra) or EMBL-EBI's [ENA](https://www.ebi.ac.uk/ena). These portals are also where you will be required to deposit your sequencing efforts during publication.
 
 The raw data that we will use for the *E. coli* genome is available from [NCBI](https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=ERR2789854) or [EMBL-EBI](https://www.ebi.ac.uk/ena/data/view/ERR2789854) with the accession ERR2789854 (they are also archived at the [DDBJ-DRA](https://www.ddbj.nig.ac.jp/dra/index-e.html) too). This is the same data but it is mirrored between the sites, however each site has a different way of accessing the data. We will focus on NCBI and EMBL-EBI for now.
 
