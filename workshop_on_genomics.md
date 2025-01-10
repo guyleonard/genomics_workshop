@@ -60,7 +60,7 @@ There is a lot of information on this page, but the main pieces of information w
 Again, we've done this bit for you! :) 
 
 #### Databases
-We will be using the PFam-A database of Hidden Markov Models (HMMS) and an Active Site database from the [Pfam](https://pfam.xfam.org/) website.
+We will be using the PFam-A database of Hidden Markov Models (HMMS) and an Active Site database from the [InterPro](https://www.ebi.ac.uk/interpro/) website.
 
 Now you are finished with this section, you may continue on to the adventure by clicking the title below.
 
