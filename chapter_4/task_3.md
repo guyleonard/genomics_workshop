@@ -1,4 +1,4 @@
-# Map Reads Back to Assembly
+# Map Reads Back to the Assembly
 Here we will use BWA again to index the contigs.fasta file and remap the reads. This is almost identical to the procedure we followed during the alignment section, the only difference is that instead of aligning to the reference genome, we are aligning to our newly created reference.
 
 Make sure that you are in the directory "~/workshop_materials/genomics_adventure/denovo_assembly/". Let's create a new directory to keep our work seprate and organised, we will also create a link to our contig data. You may prefer to copy your data, but this way we can see where the contigs.fasta file has come from when we come back to our analyses at a later point.
