@@ -1,7 +1,7 @@
 # Chapter 4 ​-  *De novo* Assembly Using Short Reads
 
 ## Introduction
-In this section of our adventure we will continue the analysis of a strain of ​* E.coli*. In the previous chapter we extracted the reads which did not map to the reference genome and assembled them. However, it is often necessary to be able to perform a *de novo* assembly of a genome. In this case, rather than doing any mapping, we will start with the filtered reads we obtained in Chapter 3 of the adventure.
+In this section of our adventure we will continue the analysis of a strain of ​*E.coli*. In the previous chapter we extracted the reads which did not map to the reference genome and assembled them. However, it is often necessary to be able to perform a *de novo* assembly of a genome. In this case, rather than doing any mapping, we will start with the filtered reads we obtained in Chapter 3 of the adventure.
 
 To do this we will use the program SPAdes to try to get the best possible assembly for a given genome. We will then generate assembly statistics and produce some annotation via Pfam and BLAST. Easy stuff! You should be a natural at this by now...
 
