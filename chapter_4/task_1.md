@@ -23,7 +23,7 @@ The command you would use to run SPAdes is this (do not run, it would take ~3 ho
 spades.py -o assembly -1 ../sequencing_data/ecoli/read_1_val_1.fq.gz -2 ../sequencing_data/ecoli/read_2_val_2.fq.gz
 ```
 
-### Recap on Assemby Theory
+### Recap on Assembly Theory
 We will be using an assembler called [SPAdes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3342519/). It generally performs pretty well with a variety of genomes. It can also incorporate longer reads produced from PacBio sequencers that we will use later in our adventure.
 
 One big advantage is that it is not just a pure assembler - it is a suite of programs that prepare the reads you have, assembles them and then refines the assembly.
