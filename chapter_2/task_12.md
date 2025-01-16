@@ -2,8 +2,8 @@
 
 *The following 3 tasks are open-ended. Please take your time with these but don't forget there are more adventures to be had in the other chapters following this!*
 
-## Alignment Display Format
-Visit  the BROAD's website [here](http://www.broadinstitute.org/software/igv/AlignmentData) :mag: and have a brief read of the format.
+## IGV Alignment Basics
+Visit  the BROAD's website [here]([http://www.broadinstitute.org/software/igv/AlignmentData](https://igv.org/doc/desktop/#UserGuide/tracks/alignments/viewing_alignments_basics/)) :mag: and have a brief read of the IGV alignment basics.
 
 ## Manually Identify a Region Without any Reads Mapping
 These regions can be quite difficult to find even with a very small genome. Zoom out as far as you can, but where you are still able to see the read mappings. You could try and use the coverage plot from QualiMap [Task 10](https://github.com/guyleonard/genomics_adventure/blob/release/chapter_2/task_10.md) to try to find one... Are there any genes associated with this region?
